@@ -185,7 +185,7 @@ section{
 }
 .home-img{
     flex: 1;
-    background: url('../images/aleksandra\ new.jpg') no-repeat; /* Replace with your image path */
+    background: url('../images/aleksandra\ new.jpg') no-repeat; 
     background-size: contain;
     background-position: 83%;
     height: 100%; 
@@ -362,4 +362,23 @@ section{
     .home{
         height: 77vh;
     }
+}
+@media (max-width: 768px) {
+    .section-container {
+        flex-direction: column;
+    }
+
+    .home-text, .home-img{
+        display: block;
+        width: 100%;
+    }
+    .home-img{
+        display: none;
+        flex: 1;
+        background: url('../images/aleksandra\ new.jpg') no-repeat; 
+        background-size: contain;
+        background-position: 85%;
+        height: 100%; 
+    }
+
 }
