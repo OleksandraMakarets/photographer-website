@@ -19,9 +19,18 @@ body{
     flex-direction: column;
     min-height: 100vh;
 }
-header{
-    background-color: aqua;
+/*header section*/
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #26c4cd;
+    box-shadow: 0 5px 10px #6fccd1;
+    color: #f0f8ff;
+    height: 15vh;
 }
+/*header section*/
 main{
     background-color: bisque;
     flex: 1 0 auto;
