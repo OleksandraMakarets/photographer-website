@@ -19,6 +19,9 @@ body{
     flex-direction: column;
     min-height: 100vh;
 }
+main{
+    flex: 1 0 auto;
+}
 /*header section*/
 .navbar{
     display: flex;
@@ -95,10 +98,9 @@ body{
     top: -7px;
 }
 /*header section*/
-main{
-    background-color: bisque;
-    flex: 1 0 auto;
-}
+/*Home section*/
+
+/*Home section*/
 /*Footer section*/
 #contact{
     background: #1d1e1ee8;
