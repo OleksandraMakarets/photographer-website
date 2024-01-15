@@ -135,3 +135,71 @@ footer{
     justify-content: center;
     }
 }
+@media (max-width:992px){
+    header{
+        padding: 1.3rem 5%;
+    }
+}
+@media(max-width:768px){
+    .menu{
+       display: none;
+       max-height: 0;
+       overflow: hidden;
+       position: absolute;
+       background-color: #26c4cd;
+       text-align: center;
+       right: 5%;
+       left: 5%;
+       margin-top: 20px;
+    }
+
+    .menu li a{
+        padding: 10px;
+        display: block;
+    }
+    .hamburger{
+        display: block;
+        padding: 20px 0;
+     }
+    #checkbox_toggle:checked ~ .menu{
+        display: block;
+        max-height: 100%;
+        transition: all .5s;
+    } 
+    #checkbox_toggle:checked ~ .hamburger .hamburger-line{
+        background-color: transparent;
+    }
+    #checkbox_toggle:checked ~ .hamburger .hamburger-line::before{
+        transform: rotate(-45deg);
+        top: 0;
+    }
+    #checkbox_toggle:checked ~ .hamburger .hamburger-line::after{
+        transform: rotate(45deg);
+        top: 0;
+    }
+    .home{
+        z-index: -1;
+    }
+    h1{
+        font-size: 3.5rem;
+        transition: .1s;
+    }
+    h2{
+        font-size: 1.6rem;
+        transition: .1s;
+    }
+    h3, h4{
+        font-size: 1.2rem;
+        transition: .1s;
+    }
+    p, h5, h6{
+        font-size: 0.8rem;
+        transition: .1s;
+    }
+    .home-text{
+        font-size: 2.0rem;
+    }
+    .home{
+        height: 77vh;
+    }
+}
