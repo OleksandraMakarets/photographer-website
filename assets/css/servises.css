@@ -28,3 +28,11 @@
     bottom: 60px;
     letter-spacing: 1px;
 }
+.col-content img:hover{
+    filter:brightness(100%) hue-rotate(200deg);
+    transform: scale(1.04);
+}
+.thum:hover{
+    filter:brightness(100%) hue-rotate(200deg);
+    transform: scale(1.04);
+}
