@@ -67,3 +67,23 @@ h2 span{
     transition: all .5s ease;
     cursor: pointer;
 }
+
+
+@media (max-width:991px){
+    .gallery-item{
+        flex: 33.3%;
+    }
+}
+@media (max-width:768px){
+    .gallery-item{
+        flex: 50%;
+    }
+    .gallery-item {
+        z-index: -2;
+    }
+}
+@media (max-width:530px){
+    .gallery-item{
+        flex: 100%;
+    }
+}
