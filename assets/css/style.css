@@ -33,6 +33,13 @@ body{
 .nav-links a{
     color:#f0f8ff;
 }
+.logo{
+    font-size: 30px;
+    color:#F1E805;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: all .45s ease;
+}
 /*header section*/
 main{
     background-color: bisque;
