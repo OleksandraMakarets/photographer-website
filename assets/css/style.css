@@ -176,6 +176,9 @@ section{
     font-weight: 600;
     transition: all .45s ease;
 }
+.btn:hover{
+    transform: scale(0.9);
+}
 /*Home section*/
 /*Footer section*/
 #contact{
