@@ -192,6 +192,54 @@ section{
    margin-bottom: 20px;
 }
 /*Home section*/
+/*Second home section numbers*/
+.numbers{
+    margin-top: 20px;
+}
+.num-title{
+    text-align: center;
+}
+.num-title h2{
+    font-size: 35px;
+    line-break: 1.2;
+}
+.num-title span{
+    color: #26c4cd;
+}
+.block h3{
+    position: absolute;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: right;
+    color:#cac41d;
+    top:36px;
+    right: 40px;
+}
+.block h4{
+    color:#0b0a0af1;
+    letter-spacing: 2px;
+    margin: 10px 0;
+}
+.numbers-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    grid-gap:2rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+.block{
+    position: relative;
+    transition: all .3s cubic-bezier(.445, .05, .55, .95);
+    will-change: filter;
+    cursor: pointer;
+    
+}
+.block img{
+    width: 100%;
+    height: auto;
+}
+/*Second home section numbers*/
 /*Footer section*/
 #contact{
     background: #1d1e1ee8;
