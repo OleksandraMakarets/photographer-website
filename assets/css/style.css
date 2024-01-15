@@ -30,6 +30,9 @@ body{
     color: #f0f8ff;
     height: 15vh;
 }
+.nav-links a{
+    color:#f0f8ff;
+}
 /*header section*/
 main{
     background-color: bisque;
