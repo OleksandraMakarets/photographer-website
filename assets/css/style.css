@@ -63,6 +63,21 @@ body{
 .menu li a.active{
     color:#76755fe2;
 }
+#checkbox_toggle{
+    display: none;
+}
+.hamburger{
+   display: none;
+   font-size: 24px;
+   cursor: pointer;
+}
+.hamburger-line{
+    background-color: #f0f8ff;
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 24px;
+}
 /*header section*/
 main{
     background-color: bisque;
