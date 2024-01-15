@@ -97,3 +97,9 @@
 .describle ul li a{
     color: black;
 }
+
+@media (max-width:768px){
+    .col-content{
+        z-index: -3;
+    }
+}
