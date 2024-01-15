@@ -140,6 +140,10 @@ main{
     display: block;
     transition: .3s;
 }
+.list ul li a:hover{
+    color: #F1E805;
+    transform: translateX(14px);
+}
 /*Footer section*/
 /*Media header, footer and general*/
 @media(max-width:1100px){
