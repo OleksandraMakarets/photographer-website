@@ -60,6 +60,9 @@ body{
     transition: all .3s;
     color:#F1E805;
 }
+.menu li a.active{
+    color:#76755fe2;
+}
 /*header section*/
 main{
     background-color: bisque;
