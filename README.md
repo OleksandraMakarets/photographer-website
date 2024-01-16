@@ -4,3 +4,15 @@ The central purpose is to showcase a photographer's best work. The website acts 
 
  Aleksandra Makarets photographer's portfolio website is a platform for attracting potential clients, collaborators, or job opportunities.
  ![Responsice Mockup](media/Adapt1black.png)
+ ## Features
+
+### Existing Features
+
+- __Navigation Bar__
+
+  - Featured on the top of the page, the navigation shows the photographer's name in the left corner: A.Makarets that links to the top of the page.
+  - The other navigation links are to the right: About, Servises, Gallery and Contact which link to different pages of the website.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  
+  ![Responsice Mockup](media/navbarnew.png)
+- __The landing page and image__
