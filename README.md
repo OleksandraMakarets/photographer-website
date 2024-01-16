@@ -129,3 +129,12 @@ The central purpose is to showcase a photographer's best work. The website acts 
 - CSS - To create a nice, standout front-end and to give a great user experience.
 - Web3 Forms - to create an active form.
 - Canva - to to create a favicon.
+
+## Deployment
+
+- __The site was deployed to GitHub pages. The steps to deploy are as follows:__
+  - In the GitHub repository, navigate to the Settings tab.
+  - From the source section drop-down menu, select the Master Branch.
+  - Once the master branch has been selected, the page will be automatically; refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here -  [Photographer website](https://oleksandramakarets.github.io/photographer-website/)  
