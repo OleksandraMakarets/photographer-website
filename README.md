@@ -79,3 +79,7 @@ The central purpose is to showcase a photographer's best work. The website acts 
 ### Features Left to Implement
 
 - __Quick form of payment on the website through well-known payment systems of the world.__
+## UX
+
+- There are two broad groups of users targeted at this website. The first group is individuals, which include: models, actors, families, couples in love, ordinary people. The second large group is companies that include: professional branding people, large and small business companies, advertising and marketing agencies.
+- The site is focused on simplicity and ease of navigation according to the main directions of the user's attention in the gallery of the photographer's works and the possibility to contact him.
