@@ -83,3 +83,12 @@ The central purpose is to showcase a photographer's best work. The website acts 
 
 - There are two broad groups of users targeted at this website. The first group is individuals, which include: models, actors, families, couples in love, ordinary people. The second large group is companies that include: professional branding people, large and small business companies, advertising and marketing agencies.
 - The site is focused on simplicity and ease of navigation according to the main directions of the user's attention in the gallery of the photographer's works and the possibility to contact him.
+
+## User Stories
+
+- As the developer of this site, I aim to provide users with access to all information about the photographer and his portfolio. And also help the photographer quickly find new clients.I came up with the following points, which are applicable to the users:
+  - As a user, I want to understand the purpose of this website quickly and easily.
+  - As a user, I want to easily navigate this website (by using a mouse, a keyboard, or a touch screen).
+  - As a user, I want to see photos taken by this photographer.
+  - As a user, I want to see transparent prices for all types of work.
+  - As a user, I want to be able to contact the photographer and send a message.
