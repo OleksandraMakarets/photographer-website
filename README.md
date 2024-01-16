@@ -107,3 +107,18 @@ The central purpose is to showcase a photographer's best work. The website acts 
   
 - __CSS__  No errors were found when passing through the official [(Jigsaw) validator](media/cssvalidator.png)
 - __Accessibility__   I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](media/light.jpg)
+
+### Bugs
+
+#### Solved bugs
+  
+- When I opened the contact page, I saw that the home page had the active class connected, just like the contact page.
+  - When I opened the contact page, I saw that the home page had the active class connected, just like the contact page.
+  ![First Bug](media/codebug1.png)
+  - Removing the class / fixed the problem.
+- When I was testing the html code on the official validator, I noticed an error: the closing div tag in the navigation panel was missing.
+  - Added the missing tag / fixed the problem.
+  
+### Unfixed Bugs
+
+- When I check my site in devtools in the phone screen format, the navigation from the Gallery to the Contact page does not work.
