@@ -92,3 +92,11 @@ The central purpose is to showcase a photographer's best work. The website acts 
   - As a user, I want to see photos taken by this photographer.
   - As a user, I want to see transparent prices for all types of work.
   - As a user, I want to be able to contact the photographer and send a message.
+
+  ## Testing
+
+- I tested that this website works in different browsers: Chrome, Opera, Safari.
+- On mobile devices, I tested the my site on a Samsung Galaxy A33 5G a with the Samsung browser and an iPhone 12Pro with the Safari browser.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+- I confirmed that navigation, home, about, servises, gallery, and contact text are all readable and easy to understand.
+- I have confirmed that the form works: requires in every field, will only accept an emailin the email field, and the submit button works.
