@@ -100,3 +100,10 @@ The central purpose is to showcase a photographer's best work. The website acts 
 - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
 - I confirmed that navigation, home, about, servises, gallery, and contact text are all readable and easy to understand.
 - I have confirmed that the form works: requires in every field, will only accept an emailin the email field, and the submit button works.
+
+### Validator Testing
+
+- __HTML__ No errors detected, there is a warning when testing using [W3C validator](media/validator.png)
+  
+- __CSS__  No errors were found when passing through the official [(Jigsaw) validator](media/cssvalidator.png)
+- __Accessibility__   I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](media/light.jpg)
