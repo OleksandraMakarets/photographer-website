@@ -154,3 +154,8 @@ The live link can be found here -  [Photographer website](https://oleksandramaka
 - The images in the some numbers page were taken from [Canva](https://www.canva.com/).
 - The images in the services page were taken from [Pixabay](https://pixabay.com/images/search/deal/?order=ec).
 - The images in the gallery page were taken from [StockSnap.io](https://stocksnap.io/).
+
+## Authors
+
+- [@oleksandramakarets](https://github.com/OleksandraMakarets)
+
