@@ -120,7 +120,6 @@ section{
 .home-text h1{
     font-size: 46px;
     font-weight: 700;
-    list-style: 1.1;
     margin: 0 0 8px;
 }
 .home-text h3{
@@ -201,7 +200,6 @@ section{
 }
 .num-title h2{
     font-size: 35px;
-    line-break: 1.2;
 }
 .num-title span{
     color: #26c4cd;
