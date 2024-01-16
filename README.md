@@ -76,3 +76,6 @@ The central purpose is to showcase a photographer's best work. The website acts 
   - The page is decorated with an image of a camera, which perfectly emphasizes the minimalist style of this site.
   
 ![Contact Page](media/contact.png)
+### Features Left to Implement
+
+- __Quick form of payment on the website through well-known payment systems of the world.__
