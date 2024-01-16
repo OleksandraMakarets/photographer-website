@@ -122,3 +122,10 @@ The central purpose is to showcase a photographer's best work. The website acts 
 ### Unfixed Bugs
 
 - When I check my site in devtools in the phone screen format, the navigation from the Gallery to the Contact page does not work.
+
+## Technologies
+
+- HTML - To create a basic site.
+- CSS - To create a nice, standout front-end and to give a great user experience.
+- Web3 Forms - to create an active form.
+- Canva - to to create a favicon.
